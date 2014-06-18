@@ -1,4 +1,4 @@
 zippy-xapi
 ==========
 
-lz-string based compression of xAPI statements
+[lz-string](http://pieroxy.net/blog/pages/lz-string/index.html) based compression of xAPI statements
